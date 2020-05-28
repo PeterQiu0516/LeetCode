@@ -10,7 +10,7 @@ class Solution
 public:
     int numJewelsInStones(string J, string S)
     {
-        map<char, int> Count;
+        unordered_map<char, int> Count;
         for (auto s : S)
         {
             Count[s]++;
