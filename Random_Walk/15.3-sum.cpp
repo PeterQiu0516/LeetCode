@@ -10,14 +10,16 @@ class Solution
 public:
     vector<vector<int>> threeSum(vector<int> &nums)
     {
-        clock_t startTime, endTime;
         int n = nums.size();
 
         vector<vector<int>> ans;
 
         unordered_map<int, int> counts;
+        // for counting occurrence of each int
         unordered_map<int, int> one_sum;
+        // for measuring index, to avoid using the same element twice
 
+        // initialize
         for (int i = 0; i < n - 1; i++)
         {
             for (int j = i + 1; j < n; j++)
@@ -42,6 +44,7 @@ public:
 
         set<vector<int>> all_ans;
 
+        // 0 occurs 3 times
         if (counts[0] >= 3)
             ans.push_back({0, 0, 0});
 
@@ -51,6 +54,7 @@ public:
             {
                 if (counts[-(nums[i] + nums[j])] == 0)
                 {
+                    // no such 3 sums
                     continue;
                 }
                 if (nums[i] == 0 && nums[j] == 0)
@@ -59,6 +63,7 @@ public:
                 }
                 if (i != one_sum[-(nums[i] + nums[j])] && j != one_sum[-(nums[i] + nums[j])])
                 {
+                    // did not use the same element twice
                     vector<int> single_ans = {nums[i], nums[j], -(nums[i] + nums[j])};
                     sort(single_ans.begin(), single_ans.end());
                     all_ans.insert(single_ans);
