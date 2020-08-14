@@ -20,7 +20,7 @@ My own practice for LeetCode exercise.
 | 1    | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/VE280_InClassEx/1.two-sum.cpp) | Easy       | 280 In-class Exercise, Unordered Map (`O(1)` search)         |
 | 15   | [3Sum](https://leetcode.com/problems/3sum/description/)      | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Random_Walk/15.3-sum(with_comments).cpp) | Medium     | While this problem has some trivial solutions, it is a good practice on Nesting Unordered Map (`O(1)` Search), which examines trade-off of search complexity and construction complexity |
 | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/20.valid-parentheses.cpp) | Easy       | 2020/08/14 daily exercise, stack & hash map (unordered_map)  |
-| 211  | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/211.design-add-and-search-words-data-structure) | Medium     | 2020/08/05 daily exercise, use unordered_map to realize dictionary with fast search |
+| 211  | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/211.design-add-and-search-words-data-structure.cpp) | Medium     | 2020/08/05 daily exercise, use unordered_map to realize dictionary with fast search |
 | 409  | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/409.longest-palindrome.cpp) | Easy       | 2020/08/14 daily exercise, hash map (unordered_map)          |
 | 705  | [Design HashSet](https://leetcode.com/problems/design-hashset/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/705.design-hash-set.cpp) | Easy       | 2020/08/02 daily exercise, implement a hashset               |
 | 771  | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Random_Walk/771.jewels-and-stones.cpp) | Easy       | Unordered Map, `O(1)` Search.                                |
@@ -38,11 +38,12 @@ My own practice for LeetCode exercise.
 
 ## Linked List & Array
 
-| #    | Problem                                                      | Solution                                                     | Difficulty | Related Topics/Ideas    |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ----------------------- |
-| 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](https://github.com/PeterQiu0516/LeetCode/tree/master/Top_100_Liked_Questions) | Easy       | Linked List             |
-| 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](https://github.com/PeterQiu0516/LeetCode/blob/master/Random_Walk/88.%20Merged%20Sorted%20Array.md) | Easy       | Array                   |
-| 148  | [Sort List](https://leetcode.com/problems/sort-list/)        | [Python](https://github.com/PeterQiu0516/LeetCode/blob/master/Top_100_Liked_Questions/148.%20Sort%20List.md) | Medium     | Merge Sort, Linked List |
+| #    | Problem                                                      | Solution                                                     | Difficulty | Related Topics/Ideas                                         |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
+| 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](https://github.com/PeterQiu0516/LeetCode/tree/master/Top_100_Liked_Questions) | Easy       | Linked List                                                  |
+| 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](https://github.com/PeterQiu0516/LeetCode/blob/master/Random_Walk/88.%20Merged%20Sorted%20Array.md) | Easy       | Array                                                        |
+| 148  | [Sort List](https://leetcode.com/problems/sort-list/)        | [Python](https://github.com/PeterQiu0516/LeetCode/blob/master/Top_100_Liked_Questions/148.%20Sort%20List.md) | Medium     | Merge Sort, Linked List                                      |
+| 442  | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/442.find-all-duplicates-in-an-array.cpp) | Medium     | 2020/08/06 daily exercise, **very interesting**, no extra space and `O(n)` time. |
 
 
 
