@@ -71,6 +71,7 @@ My own practice for LeetCode exercise.
 
 | #    | Problem                                                      | Solution                                                     | Difficulty | Related Topics/Ideas                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
+| 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/125.valid-palindrome.cpp) | Easy       | 2020/08/03 daily exercise, tricky boundaries (upper & lowercase, distance between '0' and 'P') |
 | 415  | [Add Strings](https://leetcode.com/problems/add-strings/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/VE280_InClassEx/415.add-strings.cpp) | Easy       | 280 In-class Exercise, Operation of big integers using string |
 | 520  | [Detect Capital](https://leetcode.com/problems/detect-capital/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/520.detect-capital.cpp) | Easy       | 2020/08/01 daily exercise, basic string                      |
 | 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/VE280_InClassEx/567.permutation-in-string.cpp) | Medium     | 280 In-class Exercise, substring & sliding-window            |
