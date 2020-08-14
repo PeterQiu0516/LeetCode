@@ -13,7 +13,7 @@ My own practice for LeetCode exercise.
 
 
 
-## Hash Table
+## Hash Map
 
 | #    | Problem                                                      | Solution                                                     | Difficulty | Related Topics/Ideas                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
@@ -21,6 +21,7 @@ My own practice for LeetCode exercise.
 | 15   | [3Sum](https://leetcode.com/problems/3sum/description/)      | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Random_Walk/15.3-sum(with_comments).cpp) | Medium     | While this problem has some trivial solutions, it is a good practice on Nesting Unordered Map (`O(1)` Search), which examines trade-off of search complexity and construction complexity |
 | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/20.valid-parentheses.cpp) | Easy       | 2020/08/14 daily exercise, stack & hash map (unordered_map)  |
 | 409  | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/409.longest-palindrome.cpp) | Easy       | 2020/08/14 daily exercise, hash map (unordered_map)          |
+| 705  | [Design HashSet](https://leetcode.com/problems/design-hashset/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/705.design-hash-set.cpp) | Easy       | 2020/08/02 daily exercise, implement a hashset               |
 | 771  | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Random_Walk/771.jewels-and-stones.cpp) | Easy       | Unordered Map, `O(1)` Search.                                |
 
 
