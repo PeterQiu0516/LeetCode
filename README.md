@@ -10,6 +10,7 @@ My own practice for LeetCode exercise.
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------------------------------------------- |
 | 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/VE280_InClassEx/101.symmetric-tree.cpp) | Easy       | 280 In-class Exercise, Binary trees, recursion             |
 | 589  | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/VE280_InClassEx/589.n-ary-tree-preorder-traversal.cpp) | Easy       | 280 In-class Exercise, n-ary tree, recursion vs. iteration |
+| 987  | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/987.vertical-order-traversal-of-a-binary-tree.cpp) | Medium     | 2020/08/07 daily exercise, comp + recursion.               |
 
 
 
