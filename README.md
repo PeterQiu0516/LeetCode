@@ -30,7 +30,7 @@ My own practice for LeetCode exercise.
 
 | #    | Problem                                                      | Solution                                                     | Difficulty | Related Topics/Ideas                               |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | -------------------------------------------------- |
-| 435  | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/VE280_InClassEx/435.non-overlapping-intervals.cpp) | Medium     | 2020/08/15 daily exercise, basic greedy algorithm. |
+| 435  | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/435.non-overlapping-intervals.cpp) | Medium     | 2020/08/15 daily exercise, basic greedy algorithm. |
 
 
 
