@@ -12,6 +12,38 @@ My own practice for LeetCode exercise.
 
 
 
+
+
+## Divide and Conquer
+
+| #    | Problem                                                      | Solution                                                     | Difficulty | Related Topics/Ideas                                         |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
+| 4    | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Random_Walk/4.median-of-two-sorted-arrays.cpp) | Hard       | `O(log(m+n))`Binary Search, Tricky Boundaries & Type conversion |
+| 15   | [3Sum](https://leetcode.com/problems/3sum/description/)      | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Random_Walk/15.3-sum(with_comments).cpp) | Medium     | While this problem has some trivial solutions, it is a good practice on Nesting Unordered Map (`O(1)` Search), which examines trade-off of search complexity and construction complexity |
+| 50   | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Random_Walk/50.pow-x-n.cpp) | Medium     | Fast Power Algorithm `O(logn)`, overflow                     |
+| 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/VE280_InClassEx/101.symmetric-tree.cpp) | Easy       | 280 In-class Exercise, Binary trees, recursion               |
+| 148  | [Sort List](https://leetcode.com/problems/sort-list/)        | [Python](https://github.com/PeterQiu0516/LeetCode/blob/master/Top_100_Liked_Questions/148.%20Sort%20List.md) | Medium     | Merge Sort, Linked List                                      |
+
+
+
+## Greedy
+
+| #    | Problem                                                      | Solution                                                     | Difficulty | Related Topics/Ideas                               |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | -------------------------------------------------- |
+| 435  | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/VE280_InClassEx/435.non-overlapping-intervals.cpp) | Medium     | 2020/08/15 daily exercise, basic greedy algorithm. |
+
+
+
+## Recursion
+
+| #    | Problem                                                      | Solution                                                     | Difficulty | Related Topics/Ideas                                       |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------------------------------------------- |
+| 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/VE280_InClassEx/101.symmetric-tree.cpp) | Easy       | 280 In-class Exercise, Binary trees, recursion             |
+| 148  | [Sort List](https://leetcode.com/problems/sort-list/)        | [Python](https://github.com/PeterQiu0516/LeetCode/blob/master/Top_100_Liked_Questions/148.%20Sort%20List.md) | Medium     | Merge Sort, Linked List                                    |
+| 589  | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/VE280_InClassEx/589.n-ary-tree-preorder-traversal.cpp) | Easy       | 280 In-class Exercise, n-ary tree, recursion vs. iteration |
+
+
+
 ## Tree
 
 | #    | Problem                                                      | Solution                                                     | Difficulty | Related Topics/Ideas                                       |
@@ -54,28 +86,6 @@ My own practice for LeetCode exercise.
 | 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](https://github.com/PeterQiu0516/LeetCode/blob/master/Random_Walk/88.%20Merged%20Sorted%20Array.md) | Easy       | Array                                                        |
 | 148  | [Sort List](https://leetcode.com/problems/sort-list/)        | [Python](https://github.com/PeterQiu0516/LeetCode/blob/master/Top_100_Liked_Questions/148.%20Sort%20List.md) | Medium     | Merge Sort, Linked List                                      |
 | 442  | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/442.find-all-duplicates-in-an-array.cpp) | Medium     | 2020/08/06 daily exercise, **very interesting**, no extra space and `O(n)` time. |
-
-
-
-## Recursion
-
-| #    | Problem                                                                         | Solution                                                                                                           | Difficulty | Related Topics/Ideas    |
-| ---- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---------- | ----------------------- |
-| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/VE280_InClassEx/101.symmetric-tree.cpp) | Easy | 280 In-class Exercise, Binary trees, recursion |
-| 148  | [Sort List](https://leetcode.com/problems/sort-list/)                           | [Python](https://github.com/PeterQiu0516/LeetCode/blob/master/Top_100_Liked_Questions/148.%20Sort%20List.md) | Medium     | Merge Sort, Linked List |
-| 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/VE280_InClassEx/589.n-ary-tree-preorder-traversal.cpp) | Easy | 280 In-class Exercise, n-ary tree, recursion vs. iteration |
-
-
-
-## Divide and Conquer
-
-| #    | Problem                                                      | Solution                                                     | Difficulty | Related Topics/Ideas                                         |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
-| 4    | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Random_Walk/4.median-of-two-sorted-arrays.cpp) | Hard       | `O(log(m+n))`Binary Search, Tricky Boundaries & Type conversion |
-| 15   | [3Sum](https://leetcode.com/problems/3sum/description/)      | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Random_Walk/15.3-sum(with_comments).cpp) | Medium     | While this problem has some trivial solutions, it is a good practice on Nesting Unordered Map (`O(1)` Search), which examines trade-off of search complexity and construction complexity |
-| 50   | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Random_Walk/50.pow-x-n.cpp) | Medium     | Fast Power Algorithm `O(logn)`, overflow                     |
-| 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/VE280_InClassEx/101.symmetric-tree.cpp) | Easy       | 280 In-class Exercise, Binary trees, recursion               |
-| 148  | [Sort List](https://leetcode.com/problems/sort-list/)        | [Python](https://github.com/PeterQiu0516/LeetCode/blob/master/Top_100_Liked_Questions/148.%20Sort%20List.md) | Medium     | Merge Sort, Linked List                                      |
 
 
 
