@@ -4,6 +4,14 @@ My own practice for LeetCode exercise.
 
 
 
+## Dynamic Programming
+
+| #    | Problem                                                      | Solution                                                     | Difficulty | Related Topics/Ideas                           |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------------------------------- |
+| 546  | [Remove Boxes](https://leetcode.com/problems/remove-boxes/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/546.remove-boxes.cpp) | Hard       | 2020/08/15 daily exercise, dynamic programming |
+
+
+
 ## Tree
 
 | #    | Problem                                                      | Solution                                                     | Difficulty | Related Topics/Ideas                                       |
