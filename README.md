@@ -26,6 +26,14 @@ My own practice for LeetCode exercise.
 
 
 
+## Search
+
+| #    | Problem                                                      | Solution                                                     | Difficulty | Related Topics/Ideas                  |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ------------------------------------- |
+| 733  | [Flood Fill](https://leetcode.com/problems/flood-fill/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/733.flood-fill.cpp) | Easy       | 2020/08/16 daily exercise, basic dfs. |
+
+
+
 ## Greedy
 
 | #    | Problem                                                      | Solution                                                     | Difficulty | Related Topics/Ideas                               |
