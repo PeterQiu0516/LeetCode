@@ -32,6 +32,7 @@ My own practice for LeetCode exercise.
 | #    | Problem                                                      | Solution                                                     | Difficulty | Related Topics/Ideas                  |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ------------------------------------- |
 | 733  | [Flood Fill](https://leetcode.com/problems/flood-fill/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/733.flood-fill.cpp) | Easy       | 2020/08/16 daily exercise, basic dfs. |
+| 967  | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/967.numbers-with-same-consecutive-differences.cpp) | Medium     | 2020/08/18 daily exercise, basic bfs. |
 
 
 
