@@ -10,6 +10,7 @@ My own practice for LeetCode exercise.
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
 | 123  | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/123.best-time-to-buy-and-sell-stock-iii.cpp) | Hard       | 2020/08/16 daily exercise, dynamic programming, also comes with a neat solution |
 | 546  | [Remove Boxes](https://leetcode.com/problems/remove-boxes/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/546.remove-boxes.cpp) | Hard       | 2020/08/15 daily exercise, dynamic programming               |
+| 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/647.palindromic-substrings.cpp) | Medium     | 2020/08/19 daily exercise, dynamic programming, & Manacher algorithm |
 
 
 
@@ -110,6 +111,7 @@ My own practice for LeetCode exercise.
 | 415  | [Add Strings](https://leetcode.com/problems/add-strings/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/VE280_InClassEx/415.add-strings.cpp) | Easy       | 280 In-class Exercise, Operation of big integers using string |
 | 520  | [Detect Capital](https://leetcode.com/problems/detect-capital/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/520.detect-capital.cpp) | Easy       | 2020/08/01 daily exercise, basic string                      |
 | 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/VE280_InClassEx/567.permutation-in-string.cpp) | Medium     | 280 In-class Exercise, substring & sliding-window            |
+| 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/647.palindromic-substrings.cpp) | Medium     | 2020/08/19 daily exercise, dynamic programming, & Manacher algorithm (for palindromic) |
 
 
 
