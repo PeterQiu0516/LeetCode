@@ -112,6 +112,7 @@ My own practice for LeetCode exercise.
 | 520  | [Detect Capital](https://leetcode.com/problems/detect-capital/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/520.detect-capital.cpp) | Easy       | 2020/08/01 daily exercise, basic string                      |
 | 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/VE280_InClassEx/567.permutation-in-string.cpp) | Medium     | 280 In-class Exercise, substring & sliding-window            |
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/647.palindromic-substrings.cpp) | Medium     | 2020/08/19 daily exercise, dynamic programming, & Manacher algorithm (for palindromic) |
+| 824  | [Goat Latin](https://leetcode.com/problems/goat-latin/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/824.goat-latin.cpp) | Easy       | 2020/08/19 daily exercise, basic stringstream                |
 
 
 
