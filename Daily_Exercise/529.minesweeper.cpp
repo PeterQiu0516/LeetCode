@@ -31,7 +31,7 @@ public:
             board[row][col] = 'B';
             click[0] = row - 1;
             click[1] = col - 1;
-            updateBoard(board, click);
+            updateBoard(board, click); // do not use reference to modifies click
             click[1] = col;
             updateBoard(board, click);
             click[1] = col + 1;
