@@ -102,6 +102,7 @@ My own practice for LeetCode exercise.
 | 143  | [Reorder List](https://leetcode.com/problems/reorder-list/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/143.reorder-list.cpp) | Medium     | Fast-slow pointer, reverse Linked List                       |
 | 148  | [Sort List](https://leetcode.com/problems/sort-list/)        | [Python](https://github.com/PeterQiu0516/LeetCode/blob/master/Top_100_Liked_Questions/148.%20Sort%20List.md) | Medium     | Merge Sort, Linked List                                      |
 | 442  | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/442.find-all-duplicates-in-an-array.cpp) | Medium     | 2020/08/06 daily exercise, **very interesting**, no extra space and `O(n)` time. |
+| 905  | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/905.sort-array-by-parity.cpp) | Easy       | 2020/08/21 daily exercise, **very interesting**, no extra space and `O(n)` time. |
 
 
 
