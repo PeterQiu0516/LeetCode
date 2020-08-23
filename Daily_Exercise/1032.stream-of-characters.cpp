@@ -5,46 +5,54 @@
  */
 
 // @lc code=start
-class StreamChecker {
+class StreamChecker
+{
 public:
-    StreamChecker(vector<string>& words) {
+    StreamChecker(vector<string> &words)
+    {
         // insert reversed word into trie and keep track of the length of longest word
-        for (auto& word: words) 
+        for (auto &word : words)
         {
             trie.insert_reversed(word);
             if (word.length() > longest_word)
                 longest_word = word.length();
         }
     }
-    
-    bool query(char letter) {
+
+    bool query(char letter)
+    {
         queries.insert(queries.begin(), letter);
         // keep in queries only the "longest word" last queries, because we don't need the other ones anymore
         if (queries.size() > longest_word)
             queries.pop_back();
-        Trie* cur = &trie;
-        for (auto it = queries.begin(); it!=queries.end();++it)
+        Trie *cur = &trie;
+        for (auto it = queries.begin(); it != queries.end(); ++it)
         {
-            if (cur->is_leaf) return true;
-            if (cur->children[*it -'a'] == NULL) return false;
-            cur = cur->children[*it-'a'];
+            if (cur->is_leaf)
+                return true;
+            if (cur->children[*it - 'a'] == NULL)
+                return false;
+            cur = cur->children[*it - 'a'];
         }
         return cur->is_leaf;
     }
+
 private:
-    
-    class Trie {
+    class Trie
+    {
     public:
-        Trie() {
+        Trie()
+        {
             this->is_leaf = false;
-            for(int i=0;i<26;i++)
+            for (int i = 0; i < 26; i++)
                 this->children[i] = NULL;
         }
-        
-        void insert_reversed(string word) {
+
+        void insert_reversed(string word)
+        {
             reverse(word.begin(), word.end());
-            Trie* root = this;
-            for(int i=0;i<word.length();i++)
+            Trie *root = this;
+            for (int i = 0; i < word.length(); i++)
             {
                 int index = word[i] - 'a';
                 if (root->children[index] == NULL)
@@ -53,14 +61,14 @@ private:
             }
             root->is_leaf = true;
         }
-        
-    bool is_leaf;
-    Trie* children[26];
+
+        bool is_leaf;
+        Trie *children[26];
     };
-    
+
     Trie trie;
     vector<char> queries;
-    int longest_word=0;
+    int longest_word = 0;
 };
 
 /**
@@ -69,4 +77,3 @@ private:
  * bool param_1 = obj->query(letter);
  */
 // @lc code=end
-

@@ -68,7 +68,7 @@ My own practice for LeetCode exercise.
 | 437  | [Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/437.path-sum-iii.cpp) | Medium     | 2020/08/08 daily exercise, interesting recursion.            |
 | 589  | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/VE280_InClassEx/589.n-ary-tree-preorder-traversal.cpp) | Easy       | 280 In-class Exercise, n-ary tree, recursion vs. iteration   |
 | 987  | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/987.vertical-order-traversal-of-a-binary-tree.cpp) | Medium     | 2020/08/07 daily exercise, comp + recursion.                 |
-| 1032 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/1032.stream-of-characters) | Hard       | 2020/08/23 daily exercise, union of chars, trie              |
+| 1032 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/1032.stream-of-characters.cpp) | Hard       | 2020/08/23 daily exercise, union of chars, trie              |
 
 
 
@@ -83,7 +83,7 @@ My own practice for LeetCode exercise.
 | 409  | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/409.longest-palindrome.cpp) | Easy       | 2020/08/14 daily exercise, hash map (unordered_map)          |
 | 705  | [Design HashSet](https://leetcode.com/problems/design-hashset/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/705.design-hash-set.cpp) | Easy       | 2020/08/02 daily exercise, implement a hashset               |
 | 771  | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Random_Walk/771.jewels-and-stones.cpp) | Easy       | Unordered Map, `O(1)` Search.                                |
-| 1032 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/1032.stream-of-characters) | Hard       | 2020/08/23 daily exercise, union of chars, trie              |
+| 1032 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/1032.stream-of-characters.cpp) | Hard       | 2020/08/23 daily exercise, union of chars, trie              |
 
 
 
@@ -120,7 +120,7 @@ My own practice for LeetCode exercise.
 | 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/VE280_InClassEx/567.permutation-in-string.cpp) | Medium     | 280 In-class Exercise, substring & sliding-window            |
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/647.palindromic-substrings.cpp) | Medium     | 2020/08/19 daily exercise, dynamic programming, & Manacher algorithm (for palindromic) |
 | 824  | [Goat Latin](https://leetcode.com/problems/goat-latin/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/824.goat-latin.cpp) | Easy       | 2020/08/19 daily exercise, basic stringstream                |
-| 1032 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/1032.stream-of-characters) | Hard       | 2020/08/23 daily exercise, union of chars, trie              |
+| 1032 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/1032.stream-of-characters.cpp) | Hard       | 2020/08/23 daily exercise, union of chars, trie              |
 
 
 
