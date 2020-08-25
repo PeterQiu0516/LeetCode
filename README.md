@@ -11,6 +11,7 @@ My own practice for LeetCode exercise.
 | 123  | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/123.best-time-to-buy-and-sell-stock-iii.cpp) | Hard       | 2020/08/16 daily exercise, dynamic programming, also comes with a neat solution |
 | 546  | [Remove Boxes](https://leetcode.com/problems/remove-boxes/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/546.remove-boxes.cpp) | Hard       | 2020/08/15 daily exercise, dynamic programming               |
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/647.palindromic-substrings.cpp) | Medium     | 2020/08/19 daily exercise, dynamic programming, & Manacher algorithm |
+| 983  | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/983.minimum-cost-for-tickets.cpp) | Medium     | 2020/08/25 daily exercise, dynamic programming               |
 
 
 
