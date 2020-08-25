@@ -11,7 +11,7 @@ My own practice for LeetCode exercise.
 | 123  | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/123.best-time-to-buy-and-sell-stock-iii.cpp) | Hard       | 2020/08/16 daily exercise, dynamic programming, also comes with a neat solution |
 | 546  | [Remove Boxes](https://leetcode.com/problems/remove-boxes/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/546.remove-boxes.cpp) | Hard       | 2020/08/15 daily exercise, dynamic programming               |
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/647.palindromic-substrings.cpp) | Medium     | 2020/08/19 daily exercise, dynamic programming, & Manacher algorithm |
-| 983  | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/983.minimum-cost-for-tickets.cpp) | Medium     | 2020/08/25 daily exercise, dynamic programming               |
+| 983  | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/983.minimum-cost-for-tickets.cpp) | Medium     | 2020/08/25 daily exercise, dynamic programming, dfs          |
 
 
 
@@ -38,6 +38,7 @@ My own practice for LeetCode exercise.
 | 679  | [24 Game](https://leetcode.com/problems/24-game/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/679.24-game.cpp) | Hard       | 2020/08/22 daily exercise, basic iteration & dfs             |
 | 733  | [Flood Fill](https://leetcode.com/problems/flood-fill/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/733.flood-fill.cpp) | Easy       | 2020/08/16 daily exercise, basic dfs.                        |
 | 967  | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/967.numbers-with-same-consecutive-differences.cpp) | Medium     | 2020/08/18 daily exercise, basic bfs.                        |
+| 983  | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/983.minimum-cost-for-tickets.cpp) | Medium     | 2020/08/25 daily exercise, dynamic programming, dfs          |
 
 
 
