@@ -12,6 +12,7 @@ My own practice for LeetCode exercise.
 | 486  | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/486.predict-the-winner.cpp) | Medium     | 2020/09/01 daily exercise, dynamic programming               |
 | 546  | [Remove Boxes](https://leetcode.com/problems/remove-boxes/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/546.remove-boxes.cpp) | Hard       | 2020/08/15 daily exercise, dynamic programming               |
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/647.palindromic-substrings.cpp) | Medium     | 2020/08/19 daily exercise, dynamic programming, & Manacher algorithm |
+| 877  | [Stone Game](https://leetcode.com/problems/stone-game/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/877.stone-game.cpp) | Medium     | 2020/09/01 daily exercise, dynamic programming, similar to 486, also comes with a trivial sol. |
 | 983  | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/983.minimum-cost-for-tickets.cpp) | Medium     | 2020/08/25 daily exercise, dynamic programming, dfs          |
 
 
