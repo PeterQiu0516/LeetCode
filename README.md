@@ -137,6 +137,7 @@ My own practice for LeetCode exercise.
 | 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/VE280_InClassEx/567.permutation-in-string.cpp) | Medium     | 280 In-class Exercise, substring & sliding-window            |
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/647.palindromic-substrings.cpp) | Medium     | 2020/08/19 daily exercise, dynamic programming, & Manacher algorithm (for palindromic) |
 | 824  | [Goat Latin](https://leetcode.com/problems/goat-latin/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/824.goat-latin.cpp) | Easy       | 2020/08/19 daily exercise, basic stringstream                |
+| 949  | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/description/) |                                                              | Easy       | 2020/09/01 daily exericse, permutation                       |
 | 1032 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/description/) | [C++](https://github.com/PeterQiu0516/LeetCode/blob/master/Daily_Exercise/1032.stream-of-characters.cpp) | Hard       | 2020/08/23 daily exercise, union of chars, trie              |
 
 
