@@ -14,12 +14,25 @@ class Solution
 public:
     int rand10()
     {
-        int rand40 = 40;
-        while (rand40 >= 40)
+        while (true)
         {
-            rand40 = (rand7() - 1) * 7 + rand7() - 1;
+            // 0 - 48
+            int rand40 = (rand7() - 1) * 7 + rand7() - 1;
+            if (rand40 < 40)
+                return rand40 % 10 + 1;
+            // rest: 0 - 8
+            int rest = rand40 % 10;
+            int rand63 = rest * 7 + rand7() - 1; // 0 - 62
+            if (rand63 < 60)
+                return rand63 % 10 + 1;
+
+            // rest: 0-2
+            rest = rand63 % 10;
+            int rand21 = rest * 7 + rand7() - 1; // 0-20
+            if (rand21 < 20)
+                return rand21 % 10 + 1;
+            // rest: 0, useless
         }
-        return rand40 % 10 + 1;
     }
 };
 // @lc code=end
